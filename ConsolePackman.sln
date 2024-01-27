@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePackman", "ConsolePackman\ConsolePackman.csproj", "{C9475453-6138-4993-9EA8-D3649B1CF6DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9475453-6138-4993-9EA8-D3649B1CF6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9475453-6138-4993-9EA8-D3649B1CF6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9475453-6138-4993-9EA8-D3649B1CF6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9475453-6138-4993-9EA8-D3649B1CF6DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
