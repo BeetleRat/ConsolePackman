@@ -9,7 +9,7 @@
         <OutputType>Exe</OutputType>
         <AppDesignerFolder>Properties</AppDesignerFolder>
         <RootNamespace>ConsolePackmen</RootNamespace>
-        <AssemblyName>ConsolePackmen</AssemblyName>
+        <AssemblyName>ConsolePackman</AssemblyName>
         <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -40,11 +40,12 @@
         <Reference Include="System.Xml"/>
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Game\Game.cs" />
+        <Compile Include="Game\Maps.cs" />
+        <Compile Include="Game\Player.cs" />
+        <Compile Include="Game\Vector2D.cs" />
         <Compile Include="Program.cs"/>
         <Compile Include="Properties\AssemblyInfo.cs"/>
-    </ItemGroup>
-    <ItemGroup>
-      <Content Include=".gitignore" />
     </ItemGroup>
     <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets"/>
     <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

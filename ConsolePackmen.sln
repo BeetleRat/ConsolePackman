@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePackmen", "ConsolePackmen\ConsolePackmen.csproj", "{B1761FDA-6D3C-460E-9A34-97A5B95A3E1E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePackman", "ConsolePackman\ConsolePackman.csproj", "{B1761FDA-6D3C-460E-9A34-97A5B95A3E1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
